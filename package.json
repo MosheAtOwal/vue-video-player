@@ -1,5 +1,5 @@
 {
-  "name": "vue-video-player-videojs-7",
+  "name": "vue-video-player",
   "description": "video.js component for Vue",
   "version": "7.1.1",
   "license": "MIT",
@@ -49,8 +49,6 @@
   "dependencies": {
     "object-assign": "^4.1.1",
     "video.js": "^7.1.0",
-    "videojs-contrib-hls": "^5.12.2",
-    "videojs-flash": "^2.1.0",
     "videojs-hotkeys": "^0.2.20"
   },
   "expDependencies": {
